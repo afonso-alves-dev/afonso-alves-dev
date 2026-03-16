@@ -1,52 +1,118 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Afonso Alves
 
-# 👋 Olá, eu sou Afonso Alves
+🚀 Desenvolvedor Full Stack | IA | Trading Bots | Web Apps
 
-💻 Desenvolvedor focado em **Python, Data Science e Inteligência Artificial**.
-
-Atualmente estou construindo projetos de:
-
-* 📊 Análise de dados
-* 🤖 Inteligência artificial
-* 🧠 Machine Learning
-* 📈 Visualização de dados
+Sou um desenvolvedor apaixonado por tecnologia, automação e sistemas inteligentes.  
+Construo aplicações web modernas, APIs escaláveis e projetos com Inteligência Artificial.
 
 ---
 
-## 🚀 Tecnologias que uso
+# 🧠 Sobre mim
 
-Python
-Pandas
-Streamlit
-Scikit-Learn
-Plotly
-Git / GitHub
+💻 Desenvolvedor Full Stack  
+⚡ Foco em automação e sistemas inteligentes  
+📈 Criando soluções com IA e Trading Algorithms  
+🌎 Brasil  
 
 ---
 
-## 📂 Projetos em destaque
+# 🚀 Tecnologias
 
-### 📊 AI Auto Data Analyzer
+### Frontend
+- React
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
 
-Ferramenta que analisa datasets automaticamente.
+### Backend
+- Node.js
+- Python
+- Express
+- FastAPI
 
-🔗 https://github.com/afonso-alves-dev/ai_auto_data_analyzer
+### Banco de dados
+- PostgreSQL
+- MongoDB
+- SQLite
+
+### DevOps
+- Docker
+- Git
+- Linux
 
 ---
 
-## 📫 Contato
+# 🔥 Projetos em destaque
 
-LinkedIn:
-https://www.linkedin.com/in/afonso-alves-019bb53b0/
+## 🤖 AI Trading Bot
+Sistema de trading automatizado que utiliza algoritmos e IA para gerar estratégias de mercado.
 
-Email:
-afonsoalves99@outlook.com
+Tecnologias:
+- Python
+- Machine Learning
+- APIs de exchange
 
+---
 
-<!--
-**afonso-alves-dev/afonso-alves-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💰 AppBTC
+Aplicação para monitoramento e análise de criptomoedas.
 
-Here are some ideas to get you started:
+Tecnologias:
+- JavaScript
+- APIs de mercado
+- Web interface
+
+---
+
+## 🌐 Web Templates
+Coleção de templates modernos para aplicações web.
+
+Tecnologias:
+- HTML
+- CSS
+- JavaScript
+
+---
+
+# 📊 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afonso-alves-dev&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afonso-alves-dev&layout=compact&theme=radical)
+
+---
+
+# 🚀 Objetivos
+
+Atualmente estou focado em:
+
+- 🤖 Inteligência Artificial
+- 📈 Trading Algorítmico
+- 🧠 Machine Learning
+- ☁️ Cloud Computing
+- ⚡ Sistemas escaláveis
+
+---
+
+# 📫 Contato
+
+GitHub  
+https://github.com/afonso-alves-dev
+
+LinkedIn  
+(https://www.linkedin.com/in/afonso-alves-019bb53b0/)
+
+Email  
+(afonsoalves99@outlook.com)
+
+---
+
+# ⚡ Frase
+
+> "Automação e inteligência artificial vão redefinir o futuro do software."
+
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
