@@ -1,4 +1,4 @@
-# Afonso Alves
+Olá, eu sou o Afonso Alves
 
 **Estudante de Engenharia de Software | Entusiasta de IA e Dados | Criptomoedas**
 
@@ -39,7 +39,7 @@ Meu objetivo é desenvolver **sistemas inteligentes capazes de analisar mercados
 
 ---
 
-## Tecnologias em Estudo
+##  Tecnologias em Estudo
 
 ### Programação
 
