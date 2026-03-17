@@ -14,8 +14,9 @@ Atualmente estou focado em construir **aplicações web modernas, APIs escaláve
 Tenho **16 anos de experiência no comércio**, trabalhando diretamente com:
 
 - Operações
-- Tomada de decisões
-- Resolução de problemas do mundo real
+- Tomada de decisoes
+-compras/vendas
+- relacionamento com cliente
 
 Essa experiência moldou a forma como vejo a tecnologia hoje:  
 **criar sistemas que resolvam problemas reais e gerem valor.**
