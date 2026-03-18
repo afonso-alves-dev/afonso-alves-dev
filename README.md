@@ -1,169 +1,141 @@
-# 👋 Olá, eu sou o Afonso Alves
+# ⚡ Afonso Alves — Full Stack Engineer
 
-🚀 **Desenvolvedor Full Stack | IA | Bots de Negociação | Aplicações Web | Entusiasta de Dados | Criptomoedas**
-
-Sou um desenvolvedor apaixonado por **tecnologia, automação e sistemas inteligentes**.  
-Atualmente estou focado em construir **aplicações web modernas, APIs escaláveis e projetos utilizando Inteligência Artificial**.
-
-🇧🇷 Brasil
+<p align="center">
+  Construindo sistemas reais • Foco em escalabilidade • Evolução contínua
+</p>
 
 ---
 
-# 🧠 Sobre Mim
+## 🧭 Sobre mim
 
-Tenho **16 anos de experiência no comércio**, trabalhando diretamente com:
+Sou um desenvolvedor Full Stack focado em construir aplicações com mentalidade de engenharia de software real.
 
-- Operações
-- Tomada de decisoes
--compras/vendas
-- relacionamento com cliente
+Não estou apenas estudando programação — estou desenvolvendo sistemas com foco em **escala, organização e impacto**.
 
-Essa experiência moldou a forma como vejo a tecnologia hoje:  
-**criar sistemas que resolvam problemas reais e gerem valor.**
-
-Atualmente estou focado em estudar e desenvolver projetos nas áreas de:
-
-- Desenvolvimento de Software
-- Inteligência Artificial
-- Bancos de Dados
-- Negociação Algorítmica
-- Tecnologias Financeiras
-
-Tenho grande interesse pelo **mercado de criptomoedas** e pelas possibilidades que surgem na interseção entre **finanças, automação e inteligência artificial**.
+* 🔥 Disciplina e consistência acima de tudo
+* 💡 Aprendizado baseado em prática real
+* 🌍 Objetivo: nível internacional (FAANG mindset)
 
 ---
 
-# 🎯 Foco Atual
+## 🧠 Mentalidade
 
-Atualmente estou aprofundando meus estudos em:
+* **Construir > apenas estudar**
+* **Consistência > motivação**
+* **Código é ferramenta — impacto é o objetivo**
 
-- Engenharia de Software
-- Inteligência Artificial
-- Estruturas de Dados e Algoritmos
-- Sistemas de Banco de Dados
-- Negociação Algorítmica
-- Análise de Dados Financeiros
-
-Meu objetivo é desenvolver **sistemas inteligentes capazes de analisar mercados e automatizar decisões**.
+> Meu GitHub não é apenas um portfólio.
+> É um registro da minha evolução como engenheiro.
 
 ---
 
-# 💻 Tecnologias em Estudo
+## ⚙️ Stack Principal
 
-## Programação
+### 💻 Frontend
 
-- Python
-- JavaScript
-- TypeScript
+* React.js
+* Next.js
+* TypeScript
+* TailwindCSS
 
-## Desenvolvimento Web
+### 🧠 Backend
 
-- React
-- Node.js
-- HTML
-- CSS
+* Node.js
+* Express
+* Prisma ORM
+* PostgreSQL
 
-## Bancos de Dados
+### 🐳 DevOps & Infra
 
-- PostgreSQL
-- MongoDB
-- SQL
-
-## Ferramentas
-
-- Git
-- Linux
-- Docker *(em aprendizado)*
-
-## Inteligência Artificial e Dados
-
-- Machine Learning
-- Análise de Dados
-- Sistemas de Trading Automatizado
+* Docker
+* Git & GitHub
+* Vercel
+* Railway
 
 ---
 
-# 🚀 Projetos em Destaque
+## 📊 Data & Analytics
 
-## 🤖 Robô de Trading com IA
+Também aplico análise de dados para melhorar sistemas e tomar decisões mais inteligentes.
 
-Sistema de negociação automatizado que utiliza **algoritmos e Inteligência Artificial para gerar estratégias de mercado**.
+* Python
+* Pandas
+* SQL
 
-**Tecnologias:**
+### 📈 Aplicação prática
 
-- Python
-- Machine Learning
-- APIs de Exchanges
-
----
-
-## 💰 AppBTC
-
-Aplicação para **monitoramento e análise de criptomoedas**.
-
-**Tecnologias:**
-
-- JavaScript
-- APIs de mercado
-- Interface Web
+* Análise de uso de aplicações
+* Identificação de padrões
+* Apoio à decisão técnica
+* Evolução de sistemas baseada em dados
 
 ---
 
-## 🌐 Web Templates
+## 🚀 Projetos
 
-Coleção de **templates modernos para aplicações web**.
+Estou construindo projetos com foco em arquitetura real:
 
-**Tecnologias:**
+* 🧩 SaaS Full Stack (em evolução)
+* 🔐 APIs com autenticação JWT
+* 📦 Sistemas com arquitetura modular
+* 📊 Projetos com abordagem data-driven
 
-- HTML
-- CSS
-- JavaScript
-
----
-
-# 🎯 Interesses
-
-- Mercado de criptomoedas
-- Sistemas financeiros
-- Negociação algorítmica
-- Inteligência artificial aplicada a finanças
-- Automação de processos
-- Arquitetura de sistemas
+👉 Veja meus projetos:
+➡️ https://github.com/afonso-alves-dev
 
 ---
 
-# 🚀 Objetivos
+## 🏗️ Como eu construo
 
-Atualmente estou focado em:
+Meus projetos seguem padrões de engenharia:
 
-- 🤖 Inteligência Artificial
-- 📈 Negociação Algorítmica
-- 🧠 Machine Learning
-- ☁️ Computação em Nuvem
-- ⚡ Sistemas Escaláveis
+```bash
+src/
+ ├── controllers/
+ ├── services/
+ ├── repositories/
+ ├── middlewares/
+ ├── routes/
+ ├── utils/
+ └── config/
+```
 
----
-
-# 📫 Contato
-
-**GitHub**  
-https://github.com/afonso-alves-dev
-
-**LinkedIn**  
-https://www.linkedin.com/in/afonso-alves-019bb53b0/
-
-**Email**  
-afonsoalves99@outlook.com
+* Separação de responsabilidades
+* Código reutilizável
+* Estrutura escalável
 
 ---
 
-# ⚡ Filosofia
+## 🎯 Objetivos
 
-> "Automação e inteligência artificial irão redefinir o futuro do software."
-
-Minha experiência no comércio me ensinou que **dados, automação e boas decisões podem transformar negócios**.  
-Hoje estou trabalhando para construir esse futuro através da tecnologia.
+* Evoluir para **Engenheiro Sênior**
+* Trabalhar em **produtos globais**
+* Construir **sistemas escaláveis**
+* Alcançar nível internacional
 
 ---
 
-⭐ **Sempre aprendendo. Sempre construindo.**
+## 📫 Contato
+
+* GitHub: https://github.com/afonso-alves-dev
+* LinkedIn: https://www.linkedin.com/in/afonso-alves-019bb53b0/
+* Email: (afonsoalves99@outlook.com)
+
+---
+
+## ⚡ Diferencial
+
+O que me diferencia:
+
+* Execução acima da média
+* Consistência diária
+* Foco em projetos reais
+* Mentalidade de crescimento contínuo
+
+---
+
+<p align="center">
+  Em construção. Em evolução. Sem desculpas. 🚀
+</p>
+
+
