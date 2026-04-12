@@ -1,141 +1,65 @@
-# ⚡ Afonso Alves — Full Stack Engineer
+# Afonso Alves
 
-<p align="center">
-  Construindo sistemas reais • Foco em escalabilidade • Evolução contínua
-</p>
+Desenvolvedor de apps, sistemas e automações com foco em construir software útil, escalável e orientado a resultado.
 
----
-
-## 🧭 Sobre mim
-
-Sou um desenvolvedor Full Stack focado em construir aplicações com mentalidade de engenharia de software real.
-
-Não estou apenas estudando programação — estou desenvolvendo sistemas com foco em **escala, organização e impacto**.
-
-* 🔥 Disciplina e consistência acima de tudo
-* 💡 Aprendizado baseado em prática real
-* 🌍 Objetivo: nível internacional (FAANG mindset)
+Minha atuação está na interseção entre engenharia de software, dados, automação e mercado financeiro. Trabalho no desenvolvimento de aplicações, APIs, integrações e sistemas inteligentes com interesse especial em investimentos e criptomoedas.
 
 ---
 
-## 🧠 Mentalidade
+## O que eu construo
 
-* **Construir > apenas estudar**
-* **Consistência > motivação**
-* **Código é ferramenta — impacto é o objetivo**
-
-> Meu GitHub não é apenas um portfólio.
-> É um registro da minha evolução como engenheiro.
-
----
-
-## ⚙️ Stack Principal
-
-### 💻 Frontend
-
-* React.js
-* Next.js
-* TypeScript
-* TailwindCSS
-
-### 🧠 Backend
-
-* Node.js
-* Express
-* Prisma ORM
-* PostgreSQL
-
-### 🐳 DevOps & Infra
-
-* Docker
-* Git & GitHub
-* Vercel
-* Railway
+- aplicações web e sistemas completos
+- backends e APIs para produtos digitais
+- automações e fluxos operacionais
+- pipelines e soluções data-driven
+- ferramentas com aplicação em finanças e cripto
 
 ---
 
-## 📊 Data & Analytics
+## Stack
 
-Também aplico análise de dados para melhorar sistemas e tomar decisões mais inteligentes.
-
-* Python
-* Pandas
-* SQL
-
-### 📈 Aplicação prática
-
-* Análise de uso de aplicações
-* Identificação de padrões
-* Apoio à decisão técnica
-* Evolução de sistemas baseada em dados
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Express, Prisma, PostgreSQL  
+**Dados:** Python, Pandas, SQL  
+**Infra:** Docker, GitHub, Vercel, Railway
 
 ---
 
-## 🚀 Projetos
+## Foco atual
 
-Estou construindo projetos com foco em arquitetura real:
+Estou construindo projetos que unem:
 
-* 🧩 SaaS Full Stack (em evolução)
-* 🔐 APIs com autenticação JWT
-* 📦 Sistemas com arquitetura modular
-* 📊 Projetos com abordagem data-driven
-
-👉 Veja meus projetos:
-➡️ https://github.com/afonso-alves-dev
+- software engineering
+- automação prática
+- inteligência aplicada
+- análise financeira
+- sistemas para tomada de decisão
 
 ---
 
-## 🏗️ Como eu construo
+## Princípios
 
-Meus projetos seguem padrões de engenharia:
-
-```bash
-src/
- ├── controllers/
- ├── services/
- ├── repositories/
- ├── middlewares/
- ├── routes/
- ├── utils/
- └── config/
-```
-
-* Separação de responsabilidades
-* Código reutilizável
-* Estrutura escalável
+- código precisa servir ao produto
+- arquitetura precisa suportar evolução
+- automação deve reduzir custo operacional
+- dados devem apoiar decisão
+- software bom é software útil
 
 ---
 
-## 🎯 Objetivos
+## Contato
 
-* Evoluir para **Engenheiro Sênior**
-* Trabalhar em **produtos globais**
-* Construir **sistemas escaláveis**
-* Alcançar nível internacional
+- GitHub: [github.com/afonso-alves-dev](https://github.com/afonso-alves-dev)
+- LinkedIn: [linkedin.com/in/afonso-alves-019bb53b0](https://www.linkedin.com/in/afonso-alves-019bb53b0/)
+- Email: afonsoalves99@outlook.com
 
----
 
-## 📫 Contato
+## Projetos em destaque
 
-* GitHub: https://github.com/afonso-alves-dev
-* LinkedIn: https://www.linkedin.com/in/afonso-alves-019bb53b0/
-* Email: (afonsoalves99@outlook.com)
-
----
-
-## ⚡ Diferencial
-
-O que me diferencia:
-
-* Execução acima da média
-* Consistência diária
-* Foco em projetos reais
-* Mentalidade de crescimento contínuo
-
----
-
-<p align="center">
-  Em construção. Em evolução. Sem desculpas. 🚀
-</p>
-
+- **AI Trading Strategy Platform** — plataforma voltada para estratégias e automação aplicada a trading
+- **AI Quant Trader** — projeto com foco em análise quantitativa e execução orientada por dados
+- **Auth API JWT Project** — backend de autenticação com foco em arquitetura e segurança
+- **Data Engineering Pipeline Project** — pipeline para processamento e organização de dados
+- **Autoflow AI** — automação e inteligência aplicada a fluxos operacionais
+- **Financial Decision Intelligence System** — sistema voltado para apoio à decisão em contexto financeiro
 
